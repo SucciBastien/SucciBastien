@@ -16,8 +16,8 @@
 
 ### Projet de programmation *Location de voiture*
 
-|Etape    |Lien|
-|--------:|---:|
+|Etape |Lien|
+|---:|---:|
 |Front-end|... |
 |Back-end |... |
 
